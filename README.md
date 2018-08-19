@@ -17,4 +17,5 @@ That's why I created this library. It's intended to be an up-to-date, bug-free v
 ## Roadmap
 
 - [ ] Publish to npm
+- [ ] Ensure all icons downloaded successfully
 - [ ] Create a React Component library from this repository
