@@ -16,10 +16,6 @@ function getDestinationPath(iconName, type) {
   return path.join(__dirname, '../', 'icons', type, `${iconName}.svg`);
 };
 
-const DEST = path.join(__dirname, '../', 'icons', 'test.svg');
-
-const iconList = getIconList();
-
 const result = _.chain(getIconList())
   .flatMap(iconName => {
     return iconTypes.map(type => {

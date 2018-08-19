@@ -4,6 +4,7 @@
   "description": "A repository for Material Design Icons",
   "main": "index.js",
   "scripts": {
+    "prebuild": "rimraf ./icons",
     "build": "node build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
