@@ -13,3 +13,8 @@ That's why I created this library. It's intended to be an up-to-date, bug-free v
 ## Installation
 
 > I have not yet published this project to npm.
+
+## Roadmap
+
+- [ ] Publish to npm
+- [ ] Create a React Component library from this repository
