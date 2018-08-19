@@ -17,7 +17,6 @@ function getDestinationPath(iconName, type) {
 };
 
 const DEST = path.join(__dirname, '../', 'icons', 'test.svg');
-// const DEST_PATH = path.join(__dirname, '../', 'results.json');
 
 const iconList = getIconList();
 
@@ -37,20 +36,3 @@ const result = _.chain(getIconList())
 result.forEach((val, index) => {
   downloadFile(val.downloadUrl, val.destinationPath, val.iconName, val.type, () => {});
 });
-
-// getIconList()
-//   .map(iconName => {
-//     return {
-//       downloadUrl: getSvgUrl(first, iconTypes[0]),
-
-//     }
-//   });
-
-// const first = iconList[0];
-// const firstUrl = getSvgUrl(first, iconTypes[0]);
-
-// downloadFile(firstUrl, DEST, function() {
-//   console.log('done!');
-// });
-
-// fs.writeFileSync(DEST_PATH, JSON.stringify(iconList, null, 2), { encoding: 'utf-8' });
