@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Bounding_Boxes" display="none">
+	<path display="inline" fill="none" d="M0,0h24v24H0V0z"/>
+</g>
+<g id="Rounded">
+	<g>
+		<circle cx="9" cy="12" r="8"/>
+		<path d="M17,5.55v0.18c0,0.37,0.23,0.69,0.57,0.85C19.6,7.54,21,9.61,21,12s-1.4,4.46-3.43,5.42C17.23,17.58,17,17.89,17,18.26
+			v0.18c0,0.68,0.71,1.11,1.32,0.82C21.08,18.01,23,15.23,23,12s-1.92-6.01-4.68-7.27C17.71,4.45,17,4.87,17,5.55z"/>
+	</g>
+</g>
+</svg>

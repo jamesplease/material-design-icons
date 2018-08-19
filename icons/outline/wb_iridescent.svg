@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Bounding_Boxes">
+	<g id="ui_x5F_spec_x5F_header_copy_2">
+	</g>
+	<path fill="none" d="M0,0h24v24H0V0z"/>
+</g>
+<g id="Outline">
+	<g id="ui_x5F_spec_x5F_header">
+	</g>
+	<g>
+		<path d="M5,15h14V9H5V15z M7,11h10v2H7V11z"/>
+		<rect x="11" y="1" width="2" height="3"/>
+		<polygon points="20.46,5.01 19.04,3.6 17.25,5.39 18.66,6.8 		"/>
+		<rect x="11" y="20" width="2" height="3"/>
+		<polygon points="17.24,18.71 19.03,20.51 20.45,19.09 18.65,17.3 		"/>
+		<rect x="3.88" y="4.2" transform="matrix(0.7071 0.7071 -0.7071 0.7071 5.1855 -2.1185)" width="2.53" height="1.99"/>
+		<polygon points="3.55,19.08 4.96,20.5 6.75,18.7 5.34,17.29 		"/>
+	</g>
+</g>
+</svg>
